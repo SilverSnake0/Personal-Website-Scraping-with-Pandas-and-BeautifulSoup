@@ -1,4 +1,4 @@
-#This is my first web scrapping project to take a website and extract information to be converted into a panda table
+#This is my first web scraping project to take a website and extract information to be converted into a panda table
 #The website is an Arts and Crafts store that I'm looking to get updated on the most current prices
 
 #Importing the Python modules required for this project
